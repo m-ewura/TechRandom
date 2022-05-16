@@ -25,10 +25,10 @@ First check for old docker versions and uninstall by running in cli
 * To uninstall Docker,
 > * Uninstall the Docker Engine, CLI, Containerd, and Docker Compose packages:
 ><br> `$ sudo apt-get purge docker-ce docker-ce-cli containerd.io docker-compose-plugin`
-> * To delete mages, containers, volumes, or customized configuration files on your host that are not automatically deleted after running that, run <br>
+> * To delete images, containers, volumes, or customized configuration files on your host that are not automatically deleted after running that, run <br>
 > `$ sudo rm -rf /var/lib/docker`
 > <br> `$ sudo rm -rf /var/lib/containerd`
 
-* To run Docker without root priveleges,
+* To run Docker without root privileges,
 > run `$ sudo groupadd docker`
 > <br> run `$ sudo usermod-aG docker $USER` where $USER is your ubuntu username.
