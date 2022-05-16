@@ -148,33 +148,36 @@ A server uses a processor designed for servers
    2.  Cloud computing - ability to deliver on demand computing services over the internet on a pay as you go basis. Files are saved and managed in cloud / (overtheinternet)
 
    3. Types
+
       * Deployment model:
          * Public: access to anyone eg. bus transportation. It is made available to public over the internet and owned by cloud provider eg. AWS, MS Azure, IBM's Blue Cloud, Sun Cloud
-    > _dedicated to two/more orgs = multitenancy_<br>
-    > Also, an org can have multiple public clouds i.e. renting spaces from different landlords.<br>
-        * Hybrid: pay for use only when needed eg. rent a taxi. Eg. some agencies might use prite cloud for secure info and public to share datasets with public
-    > _an org can have both by apportioning their services or all services on private and backup on public_<br>
-        * Private: owned by single person eg. car owner. It is exclusively operated by a single org. and can be managed by the org / 3rd party and may exist on / off premise eg. AWS, VMware
+         > _dedicated to two/more orgs = multitenancy_<br> Also, an org can have multiple public clouds i.e. renting spaces from different landlords.
+         * Hybrid: pay for use only when needed eg. rent a taxi. Eg. some agencies might use prite cloud for secure info and public to share datasets with public
+         > _an org can have both by apportioning their services or all services on private and backup on public_
 
-      * Service Model:
+         * Private: owned by single person eg. car owner. It is exclusively operated by a single org. and can be managed by the org / 3rd party and may exist on / off premise eg. AWS, VMware
+
+       * Service Model:
          * IaaS - Infastructure if buz needs vm | Users:  IT admins
-    > _building on a lease land_
+         > _building on a lease land_
+
          * PaaS - Platform if buz needs a platform for building software products |Users: software devs
-    > _renting equipments to build_
+         > _renting equipments to build_
+
          * SaaS - Software if buz doesnt need to maintain any IT equipment(accessed w/ username & pwd) | Users: end users
          * Serverless - Provide backend services on an as-used basis
-    > _pay for a sevice only when needed = multitenancy_
+         > _pay for a sevice only when needed = multitenancy_
 
-> What you'll manage in a service model
-> * Applications - IaaS, PaaS
-> * Data - IaaS, PaaS
-> * Runtime - IaaS
-> * Middleware - IaaS
-> * OS - IaaS
-> * Virtualization
-> * Servers
-> * Storage
-> * Networking
+         __What you'll manage in a service model__
+         > * Applications - IaaS, PaaS
+         > * Data - IaaS, PaaS
+         > * Runtime - IaaS
+         > * Middleware - IaaS
+         > * OS - IaaS
+         > * Virtualization
+         > * Servers
+         > * Storage
+         > * Networking
 
    4. Cloud Providers 
       * AWS - IaaS, PaaS, SaaS. Services can be used to create, deploy any type of app in the cloud, uses pay-for-what-you-use subscription | Amazon
