@@ -1,11 +1,10 @@
 #### Install Docker on Ubuntu Server
 
-<p> If you have any of these ubuntu versions, you can proceed:
-<br> * Ubuntu Jammy 22.04
-<br> * Ubuntu Impish 21.10
-<br> * Ubuntu Focal 20.04
-<br> * Ubuntu Bionic 18.04
-</p>
+If you have any of these ubuntu versions, you can proceed:
+* Ubuntu Jammy 22.04
+* Ubuntu Impish 21.10
+* Ubuntu Focal 20.04
+* Ubuntu Bionic 18.04
 
 First check for old docker versions and uninstall by running in cli
 <br> `$ sudo apt-get remove docker docker-engine docker.io containerd runc`
