@@ -9,7 +9,7 @@
   > system stability, availability, etc.
 
 2. Devops transformation and client transformation strategy benefits
-> Idea/Experiment > Code > Build > Deploy > Manage > Learn
+> Idea/Experiment > Code > Build > Deploy > Manage > Learn <br>
 > _unit test cases, pkg into executables > runtime env > what happens after > continuous improvement_
 
  * Velocity: How quickly products can pipe through
