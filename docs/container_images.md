@@ -46,5 +46,3 @@ _What actions can one take to remediate vulnerabilities discovered in a containe
     Can also scan and create an output file:
     > `$ trivy i -f json -o mytestimage:0.1.json mytestimage:0.1`
 
-
-    
