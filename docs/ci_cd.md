@@ -11,7 +11,7 @@ __CI/CD Pipelines__ are CI/CD practices or guidelines that app devs use to deliv
 
 2. How does CI improve collaboration and code quality?
     * Teams practicing CI use rules (eg.precommit, github actions) to control what features and code are production ready.
-    * Committing small code at a time into version control frequently also allows easy detection of defects/ software quality issues, Shorter commit cycles guarantee less code review/ modification from other developers.
+    * Committing small code at a time into version control frequently also allows easy detection of defects/ software quality issues. Shorter commit cycles guarantee less code review/ modification from other developers.
 
 3. CI/CD Tools
     * Supports integration w/ third party platforms, ui, admin'n, source code mgt to build mgt.
