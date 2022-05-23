@@ -1,12 +1,13 @@
-##### CI/CD
+#### CI/CD
 
 1. What Is CI/CD?
     * Continuous Integration Continuous Delivery
-> (continuous monitoring and automation right from tests to deployment)
+(continuous monitoring and automation right from tests to deployment) <br>
+
 This is std practice for businesses that frequently improve apps and require reliable delivery process. CI/CD help teams focus more on enhancing apps than details of delivery to other envs.
 __CI/CD Pipelines__ are CI/CD practices or guidelines that app devs use to deliver code changes more frequent and reliable.
 
-> (__Build__ > __test__ > __automate__ > __auto release to repo__ > __auto deploy to prod__)
+> __Build__ > __test__ > __automate__ > __auto release to repo__ > __auto deploy to prod__
 
 2. How does CI improve collaboration and code quality?
     * Teams practicing CI use rules (eg.precommit, github actions) to control what features and code are production ready.
