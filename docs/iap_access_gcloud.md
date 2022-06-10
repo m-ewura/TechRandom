@@ -13,4 +13,4 @@
 
 * Save.
 
-**What happens now is that, only users listed here can access your project.**
+**What happens now is that, only users listed here can access your project url**
