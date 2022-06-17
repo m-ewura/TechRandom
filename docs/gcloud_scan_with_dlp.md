@@ -12,7 +12,7 @@
      * Set confidence threshold to a likelihood of possible.
      * Manage service agent container & billing-> create a new project as a service agent
      * Set resource location `in same location as your data`
-     * create
+     * Create.
 
     **_This scan runs automatically in respects to schedule specified._**
 
