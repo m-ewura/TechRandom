@@ -2,4 +2,4 @@
 
 After joining a #100DaysChallenge documenting my journey on somia as well as https://github.com/ewurabapotez/PostgreSQLTest , I feel it's something I can keep doing moving forward, which does not necessarily have to be in any particular format / order...
 
-###### Welcome to &nbsp;My Sticky Note on Github.
+**_Welcome to &nbsp;My Sticky Note on Github._**
