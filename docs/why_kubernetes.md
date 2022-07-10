@@ -18,7 +18,7 @@
    * Use declarative cmds like `config files` to scale your deployments so you can update anytime and apply the new changes.
    * To avoid downtime while your app redeploys, use an update strategy (_eg. `RollingUpdate`_).
    * To view replicas: `$ kubectl get replicasets`
-   * To see active pods `$ kubectl get pods`
+   * To see active pods: `$ kubectl get pods`
    * To check deployments: `$ kubectl get deployments`
 
 
