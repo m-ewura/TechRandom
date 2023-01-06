@@ -1,2 +1,2 @@
 
-**_Welcome to &nbsp;My Sticky Note on Github._**
+**_My Sticky Note &nbsp;on &nbsp;Github._**
