@@ -26,9 +26,3 @@ _Warning: Copy cmd updates the db anytime it's run. Run once or more to generate
 
 * Try queries
 
-
-#### Github commit message requirements
-* Sending pull requests
-    * _if update_: __-m "patch: "__
-    * _if add_: __-m "feat: "__
-    * _if fix_: __-m "fix: "__
