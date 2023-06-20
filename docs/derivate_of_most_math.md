@@ -152,7 +152,7 @@ $$C(n,r) = ^{n}C_{r} = nCr = \binom{n}r = {n! \over r!(n-r)!}$$
 
 <img width="450" alt="Permutation and Combination" src="https://github.com/ewurabapotez/TechRandom/blob/main/assets/images/d-combo-8-6.jpg">
 
-Do you remeber $`{change\space in\space Y \over change\space in\space X} = {dy \over dx}`$ formula?
+Do you remember $`{change\space in\space Y \over change\space in\space X} = {dy \over dx}`$ formula?
 
 9. TLDR:<br>
 - Exploration of questions and answers (QnA), refining and fine-tuning.
