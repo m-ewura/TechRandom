@@ -25,7 +25,7 @@ In the begining there was `counting numbers` and there was space.
 &#9432; &nbsp; It's impossible till it's possible.<br>
 Then there was `complex numbers`
 
-> diagram
+<img alt="Complex Numbers" src="https://github.com/ewurabapotez/TechRandom/assets/images/complex-nos-6.png">
 
 There are many other methods derived from $`QnA`$s and fine-tuning.<br>
 - &nbsp; &nbsp;-----> &nbsp;Can it go the other way?
