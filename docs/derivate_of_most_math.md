@@ -25,7 +25,7 @@ In the begining there was `counting numbers` and there was space.
 &#9432; &nbsp; It's impossible till it's possible.<br>
 Then there was `complex numbers`
 
-<img alt="Complex Numbers" src="https://github.com/ewurabapotez/TechRandom/assets/images/complex-nos-6.png">
+<img width="450" alt="Complex Numbers" src="https://github.com/ewurabapotez/TechRandom/blob/main/assets/images/d-complex-nos-6.jpg">
 
 There are many other methods derived from $`QnA`$s and fine-tuning.<br>
 - &nbsp; &nbsp;-----> &nbsp;Can it go the other way?
@@ -38,11 +38,11 @@ $$\mu = {\sum x \over n}$$
 
 where: $`\mu`$ = Average, $`\sum`$= Sum of volumes, $`n`$ = Count($`n\underline{o}`$) of volumes<br>
 
-> diagram
+<img width="450" alt="Average of n values" src="https://github.com/ewurabapotez/TechRandom/blob/main/assets/images/d-average-7.jpg">
 
 7.1. &nbsp;How far on average, are all values from the middle?
 
-> diagram
+<img width="450" alt="Mean Deviation" src="https://github.com/ewurabapotez/TechRandom/blob/main/assets/images/d-mean-7-1.jpg">
 
 7.2. &nbsp;How about the reciprocal of the volumes... Can we have an average for that?<br>
 Sure. We can even have the reciprocal of the average 😀. `Harmonic Mean`<br>
@@ -50,7 +50,7 @@ Sure. We can even have the reciprocal of the average 😀. `Harmonic Mean`<br>
 
 7.3. &nbsp;How about when we want to compare different properties? `Geometric Mean`<br>
 
-> diagram
+<img width="450" alt="Geometric Mean" src="https://github.com/ewurabapotez/TechRandom/blob/main/assets/images/d-geometric-mean-7-3.jpg">
 
 `Geometric Mean` can also be used to calculate mean of different large values.<br>
 In example 2,<br>
@@ -61,7 +61,7 @@ as well as form a triangle from the change...given the $`x`$ and $`y`$ values,<b
 and calculate the hypotenuse, using pythagoras theorem. We can then perform<br>
 trigonometry operations on it. Like, finding the angle $`\theta`$ . You get the idea.
 
-> diagram
+<img width="450" alt="Slope" src="https://github.com/ewurabapotez/TechRandom/blob/main/assets/images/d-slope-7-4.jpg">
 
 8.1. &nbsp;What is the probability that search engines can read your mind? Think about it.<br>
 
@@ -70,7 +70,7 @@ trigonometry operations on it. Like, finding the angle $`\theta`$ . You get the 
 $$Probability\space of\space an\space Event 
 = {n\underline{o}\space of\space ways\space it\space can\space happen\space \over total\space n\underline{o}\space of\space outcomes}$$ 
 
-> diagram
+<img width="450" alt="Probability Line" src="https://github.com/ewurabapotez/TechRandom/blob/main/assets/images/d-probability-line-8-1.jpg">
 
 -----> _the sum of probability of all possible outcomes = 1_ <br>
 
@@ -150,9 +150,9 @@ without repetition:
 
 $$C(n,r) = ^{n}C_{r} = nCr = \binom{n}r = {n! \over r!(n-r)!}$$
 
-> diagram
+<img width="450" alt="Permutation and Combination" src="https://github.com/ewurabapotez/TechRandom/blob/main/assets/images/d-combo-8-6.jpg">
 
-Do you remeber this $`dy \over dx`$ formula?
+Do you remeber $`{change\space in\space Y \over change\space in\space X} = {dy \over dx}`$ formula?
 
 9. TLDR:<br>
 - Exploration of questions and answers (QnA), refining and fine-tuning.
